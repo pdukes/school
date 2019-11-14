@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	background-color:#DD6425;
+	font-size: 1.5em;
+}
+
+h1 {
+	color: blue;
+	background-color: yellowgreen;
+	font-size: 2em;
+	padding: 10px;
+}
+
+h2 {
+	color: darkorange;
+	background-color:#327CA0;
+	font-size: 1.5em;
+	padding: 5px;
+}
+
+li {
+	color: darkred;
+	margin: 5px;
+}
+p {
+	color: midnightblue;
+}
+body {
+	font-size: 1.25em;
+	font-family: Verdana;
+	margin: 0;
+}
+header {
+	display: inline-block;
+	background-color: black;
+	color: white;
+	width: 100%;
+}
+
+header > img {
+	padding: 20px 20px 5px 20px;
+}
